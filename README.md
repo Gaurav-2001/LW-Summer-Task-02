@@ -29,7 +29,7 @@ for getting this image we use the command
 
 * In the docker commit we first create and setup environment manually by launchig one contanier and configuring environment in it. now with the help of this container we create a Docker image
 
-* so lets first launch a docker containers and get the required softwares in it (firefox, python3).
+* so lets first launch a docker containers and get the required softwares in it (firefox, python3, etc).
 command:
 `docker run -it --name os1 centos:latest`
 
