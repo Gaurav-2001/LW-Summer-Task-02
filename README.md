@@ -73,7 +73,7 @@ docker run -it --name test_os -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-un
 ![Run-Command](./Video/Run.gif)
 
 ### References:
- ✔ [docker](https://www.docker.com/resources/what-container)</br>
+ ✔ [Docker](https://www.docker.com/resources/what-container)</br>
  ✔ [X server arch.](https://en.wikipedia.org/wiki/X_Window_System_protocols_and_architecture)</br>
 
  ## Thankyou For Reading
