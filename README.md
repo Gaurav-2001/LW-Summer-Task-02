@@ -70,11 +70,11 @@ docker run -it --name test_os -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-un
 
 * Now lets run the jupyter notebook on top of firefox
 
-![Docker-commit](./Screenshot/jupyter.png)
+![Run-Command](./Video/Run.gif)
 
 ### References:
- ✔ [docker](https://www.docker.com/resources/what-container)
- ✔ [X server arch.](https://en.wikipedia.org/wiki/X_Window_System_protocols_and_architecture)
+ ✔ [docker](https://www.docker.com/resources/what-container)</br>
+ ✔ [X server arch.](https://en.wikipedia.org/wiki/X_Window_System_protocols_and_architecture)</br>
 
  ## Thankyou For Reading
  Any query and suggestion are always welcome- [Gaurav Pagare](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)
